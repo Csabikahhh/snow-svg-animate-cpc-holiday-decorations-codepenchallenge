@@ -1,1 +1,0 @@
-// cpc-holiday-decorations codepenchallenge
